@@ -28,7 +28,8 @@ url: "https://dsjomad.github.io" # the base hostname & protocol for your site, e
 #github_username:  dsjomad
 
 # Build settings
-theme: minima
+# Replace minima theme with regular theme
+# theme: minima
 plugins:
   - jekyll-feed
 
