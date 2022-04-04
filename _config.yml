@@ -23,7 +23,7 @@ email: justonemealaday@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Carnivore * OMAD * Fasting * X3 Bar * Fortagen
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://dsjomad.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://justonemealaday.com" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  dsjomad
 
