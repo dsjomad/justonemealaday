@@ -6,8 +6,9 @@ My Wife is going to start her own journey which I will be detailing in the futur
 
 Please follow along.
 
-<iframe width="505" height="898" src="https://www.youtube.com/embed/U_3VNI9lS6c" title="Water and Black Coffee Fasting #fasting #weightloss #ketosis #drjasonfung" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
+<iframe width="505" height="898" src="https://www.youtube.com/embed/U_3VNI9lS6c" title="Water and Black Coffee Fasting #fasting #weightloss #ketosis #drjasonfung" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<br>
 <br>
 
 Paid Advertisements:  <br>  <a target="_blank" href="https://www.amazon.com/gp/search?ie=UTF8&tag=dsjomad-20&linkCode=ur2&linkId=ea9a72efa5f5f2c3b135d43e83b334b9&camp=1789&creative=9325&index=hpc&keywords=supplements fasting dieting drjasonfung">Supplements</a> <br> 
